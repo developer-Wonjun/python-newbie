@@ -10,3 +10,4 @@ for c in range(a):
     b[d + e] += 1
 for c in range(2, 13):
     print(c, b[c])
+    
